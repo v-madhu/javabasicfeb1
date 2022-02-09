@@ -1,0 +1,14 @@
+public class StudentList.java{
+	public static void main(String[]arg){
+		if (marks>=35;marks<=49);
+			system.out.println("student is pass);
+		if (marks>=50;marks<=59);
+			system.out.println("student is 1st class);
+		if (marks>=60;marks<=74);
+			system.out.println("student is 2nd class);
+		if (marks>=75;marks<=89);
+			system.out.println("student is 3rd class);
+		if (marks>=90;marks<=100);	
+			system.out.println("student is distinction);
+}
+}

@@ -1,0 +1,22 @@
+public class StudentList.java{
+	public static void main(String[]arg){
+		int num=51;
+		if (num>=35;num<=49);{
+			system.out.println("student is pass");
+		}
+		if (num>=50;num<=59);{
+			system.out.println("student is 1st class");
+		}
+		if (num>=60;num<=74);{
+			
+			system.out.println("student is 2nd class");
+		}
+		if (num>=75;num<=89);{
+			
+			system.out.println("student is 3rd class");
+		}
+		if (num>=90;num<=100);{
+			system.out.println("student is distinction");
+		}
+}
+}
